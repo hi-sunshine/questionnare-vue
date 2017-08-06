@@ -30,7 +30,7 @@ npm run build
 [demo地址](http://114.215.139.40:8080/questionnare/index.html#/)（请用chrome手机模式预览）
    
 ### 移动端扫描下方二维码
-<img src='https://github.com/AnonymousBoy1/questionnare/blob/master/src/images/img.png' width="300" height="300" />
+<img src='https://github.com/AnonymousBoy1/questionnare/raw/master/src/images/img.png' width="300" height="300" />
 
 
 
